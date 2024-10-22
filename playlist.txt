@@ -1,1 +1,6 @@
 song
+list : 
+1- normal music
+2- pop music
+3-jaz music
+
